@@ -2,8 +2,8 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning HTML/CSS/Javascript/Node/React/MongoDB
 
-- 📫 How to reach me:
-      Twitter: @sconnycodes
+- 📫 How to reach me:<br>
+      Twitter: @sconnycodes<br>
       Web: markmac.netlify.app
 
 <!---
