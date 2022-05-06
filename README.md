@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sconnycodes / Mark Mac
-- 👀 I’m interested in Full-stack web development.
+- 👀 I'm a full-stack web developer & tech enthusiast.
 - 🌱 Technologies I work with include: HTML | CSS | Javascript | MongoDB | Express | React | Node
 
 - 📫 How to reach me:<br>
