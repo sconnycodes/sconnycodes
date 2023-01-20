@@ -4,7 +4,7 @@
 
 - 📫 How to reach me:<br>
       Twitter: [@sconnycodes](https://twitter.com/SconnyCodes)<br>
-      Web: [markmac.dev](markmac.dev)
+      Web: [markmac.dev](https://markmac.dev)
 
 <!---
 sconnycodes/sconnycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
