@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sconnycodes / Mark Mac
 - 👀 I'm a full-stack web developer & tech enthusiast.
-- 🌱 Technologies I work with include: HTML | CSS | Javascript | MongoDB | Express | React | Node
+- 🌱 Technologies I work with include: HTML | CSS | Javascript | Typescript | MongoDB | Express | React | Node | Postgres
 
 - 📫 How to reach me:<br>
       Twitter: @sconnycodes<br>
-      Web: markmac.netlify.app
+      Web: markmac.dev
 
 <!---
 sconnycodes/sconnycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
